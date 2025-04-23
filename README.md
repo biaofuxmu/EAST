@@ -24,8 +24,8 @@ pip install -e ./
 The training data used in the paper can be downloaded:
 | Huggingface | ModelScope  |
 | ---- | ---- |
-|[SiMT-De-En-660K 🤗](https://huggingface.co/biaofu-xmu/SiMT-De-En-660K) | [SiMT-De-En-660K 🤖](https://modelscope.cn/datasets/BiaoFuXMU/SiMT-De-En-660K) |
-|[SiMT-Multi-90K 🤗](https://huggingface.co/biaofu-xmu/SiMT-Multi-90K) | [SiMT-Multi-90K 🤖](https://modelscope.cn/datasets/BiaoFuXMU/SiMT-Multi-90K) |
+|[SiMT-De-En-660K 🤗](https://huggingface.co/datasets/biaofu-xmu/SiMT-De-En-660K) | [SiMT-De-En-660K 🤖](https://modelscope.cn/datasets/BiaoFuXMU/SiMT-De-En-660K) |
+|[SiMT-Multi-90K 🤗](https://huggingface.co/datasets/biaofu-xmu/SiMT-Multi-90K) | [SiMT-Multi-90K 🤖](https://modelscope.cn/datasets/BiaoFuXMU/SiMT-Multi-90K) |
 
 
 Preprocessing training data:
