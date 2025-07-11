@@ -40,6 +40,8 @@ for data_path, output_path in zip(data_paths, output_paths):
 
             output = output + f"{src}<|end-of-read|>{tgt}<|end-of-write|>"
 
+            src_i += 1
+
         samples.append(
             {
                 "instruction": f"You are a professional simultaneous interpreter, your task is to translate the following {src_lang} text into {tgt_lang} with {latency} latency.",
